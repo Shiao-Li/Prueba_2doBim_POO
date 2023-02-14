@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c5b1bec-c88e-4bc6-81c8-59664294acba" name="Changes" comment="" />
+    <list default="true" id="2c5b1bec-c88e-4bc6-81c8-59664294acba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prueba_2doBim_POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prueba_2doBim_POO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudiantes.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudiantes.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudiantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudiantes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LjbXFL7XfoeZDSzzUGejlelA7L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,8 +35,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "235",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/POO/IdeaProjects/Bucar_actualizar_BD",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,7 +57,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676387481830</updated>
+      <workItem from="1676387483081" duration="4245000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
